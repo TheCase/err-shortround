@@ -1,0 +1,9 @@
+[Core]
+Name = ShortRound
+Module = shortround
+
+[Python]
+Version = 2+
+
+[Documentation]
+Description = Indy's little buddy
